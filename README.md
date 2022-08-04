@@ -1,1 +1,1 @@
-# RiderApp-Backend is an Api written in C# Asp.Net web Api framework 
+# RiderApp-Backend is an Api written in Node Js and Go
