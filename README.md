@@ -1,1 +1,1 @@
-# RiderApp-Backend is an Api written in Node Js and Go
+# RiderApp-Backend is an Api written in Node Js and Golang
